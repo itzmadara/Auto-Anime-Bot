@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
-AAB
 requests
 pymongo[srv]
 requests
 lxml
+python
