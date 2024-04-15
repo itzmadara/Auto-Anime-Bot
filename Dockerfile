@@ -7,4 +7,4 @@ WORKDIR /app
 
 RUN python3 -m pip install -U -r requirements.txt 
 
-CMD [ "python3" , "-m", "AAB"]
+CMD [ "python3" , "-m AAB"]
