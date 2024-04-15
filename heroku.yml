@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3.11 -m AAB
+  worker: bash start.sh
